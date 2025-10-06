@@ -118,3 +118,7 @@ The code creates two folders in the mounted output directory:
 ### Model weights
 
 https://huggingface.co/mutils-panoptic/mutils/tree/main
+
+### Documentation
+
+- [Newcomer guide](docs/newcomer_guide.md)
